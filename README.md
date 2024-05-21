@@ -2,8 +2,6 @@ Mini Capstone Project: Crime Data Analysis with MySQL and Python
 
 
 
-Click here to download dataset
-
 Introduction:
 
 
